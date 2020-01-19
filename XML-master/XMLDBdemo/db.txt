@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<class>
+   <citizen socialnumber = "1234">
+      <firstname>Dagmawi Negussu</firstname>
+      <lastname>Negussu</lastname>
+      <address>3669, Woreda 02, Addis Ababa, Ethiopia</address>
+      <birthdate>10/05/1998</birthdate>
+   </citizen>
+   
+   <citizen socialnumber = "5678">
+      <firstname>Natnael</firstname>
+      <lastname>Argaw</lastname>
+      <address>3670, Woreda 12, Addis Ababa, Ethiopia</address>
+      <birthdate>01/06/1990</birthdate>
+   </citizen>
+   
+   <citizen socialnumber = "9012">
+      <firstname>Juan</firstname>
+      <lastname>Mata</lastname>
+      <address>3671, Woreda 09, Mekelle, Ethiopia</address>
+      <birthdate>10/12/1995</birthdate>
+   </citizen>
+</class>
